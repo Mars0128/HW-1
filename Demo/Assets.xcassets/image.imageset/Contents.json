@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "https:www.google.comurl?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fsimpleinfo%2F&psig=AOvVaw2LOWVugNtJcTjz2zWDLuBE&ust=1721099772108000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjdubaKqIcDFQAAAAAdAAAAABAE.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
